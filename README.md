@@ -1,7 +1,7 @@
 
 Este foi um trabalho realizado pela disciplina de Algoritmos e Lógica da Programação na linguagem C. 
 
-Programa para armazenar obras literárias e revistas, separando-as em caixas distintas.
+Este é um programa para armazenar obras literárias e revistas, separando-as em caixas distintas.
 
 O sistema a ser construído necessitará atender aos requisitos funcionais abaixo:
 
